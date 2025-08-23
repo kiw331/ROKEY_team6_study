@@ -1,5 +1,15 @@
+
+
+
 # ROKEY 스터디  
-이 레포지토리는 **ROKEY 스터디 그룹 '벌꿀오소리조'**의 활동을 기록하고 공유하기 위해 만들어졌습니다.  
+<p align="center">
+  <img src="https://github.com/kiw331/kiw331/blob/main/asset/banner03.png" alt="배너03" width="100%">
+</p>
+
+> 📌 이 레포지토리는 ROKEY 스터디 그룹 `벌꿀오소리조`의 활동을 기록하고 공유하기 위해 만들어졌습니다.  
+프로그래밍, AI, 로보틱스를 주제로 다양한 활동을 통해 역량을 키워가는 것을 목표로 합니다.
+
+
 
 ## ㅁㅁ
 [![GitHub](https://img.shields.io/badge/GitHub-kiw331-181717?style=flat-square&logo=github)](https://github.com/kiw331)
